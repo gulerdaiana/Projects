@@ -1,0 +1,24 @@
+1,Pop Ionut,UBB,Real Madrid
+2,Dan Andrei,UBB,Real Madrid
+3,Buzila George,UBB,Real Madrid
+4,David Mihai,UBB,Real Madrid
+5,Radu Matei,UBB,Real Madrid
+6,Popa Oana,UBB,Real Madrid
+7,Filip Denis,UMF,FC Barcelona
+8,Petrescu Adriana,UMF,FC Barcelona
+9,Dan Mihaela,UMF,FC Barcelona
+10,Bufnea Dragos,UMF,FC Barcelona
+11,Vancea Maria,UMF,FC Barcelona
+12,Suciu Daniel,UMF,FC Barcelona
+13,Petrila Valentin,FSEGA,Manchester
+14,Irimie Vlad,FSEGA,Manchester
+15,Georgescu Andrei,FSEGA,Manchester
+16,Grigorescu Roxana,FSEGA,Manchester
+17,Birta Patricia,FSEGA,Manchester
+18,Marian Alexandru,FSEGA,Manchester
+19,Tencutiu Ioana,USAMV,Bayern
+20,Bungau Mircea,USAMV,Bayern
+21,Farcas Daniel,USAMV,Bayern
+22,Cristea Maria,USAMV,Bayern
+23,Bunea Cristina,USAMV,Bayern
+24,Bercea Andrei,USAMV,Bayern

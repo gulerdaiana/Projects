@@ -1,0 +1,10 @@
+1,Real Madrid,FC Barcelona,13/02/2023
+2,Real Madrid,Bayern,18/03/2023
+3,Manchester,Bayern,18/02/2023
+4,FC Barcelona,Manchester,22/02/2023
+5,Manchester,Real Madrid,10/01/2023
+6,Bayern,FC Barcelona,25/01/2023
+7,Bayern,Manchester,05/04/2023
+8,Real Madrid,Manchester,01/04/2023
+9,FC Barcelona,Manchester,30/03/2023
+10,Bayern,Real Madrid,14/02/2023
